@@ -1,0 +1,27 @@
+[0.609s] Invoking command in '/home/swarnava2/hunt_ws/build/clue_hunt_solver': PYTHONPATH=/home/swarnava2/hunt_ws/build/clue_hunt_solver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/swarnava2/hunt_ws/build/clue_hunt_solver/build --no-deps symlink_data
+[0.778s] running develop
+[0.886s] running egg_info
+[0.886s] creating clue_hunt_solver.egg-info
+[0.886s] writing clue_hunt_solver.egg-info/PKG-INFO
+[0.886s] writing dependency_links to clue_hunt_solver.egg-info/dependency_links.txt
+[0.886s] writing entry points to clue_hunt_solver.egg-info/entry_points.txt
+[0.886s] writing requirements to clue_hunt_solver.egg-info/requires.txt
+[0.886s] writing top-level names to clue_hunt_solver.egg-info/top_level.txt
+[0.886s] writing manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+[0.887s] reading manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+[0.888s] writing manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+[0.888s] running build_ext
+[0.889s] Creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue-hunt-solver.egg-link (link to .)
+[0.889s] Installing follower_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+[0.889s] Installing hunt_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+[0.889s] 
+[0.889s] Installed /home/swarnava2/hunt_ws/build/clue_hunt_solver
+[0.889s] running symlink_data
+[0.889s] creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/ament_index
+[0.889s] creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/ament_index/resource_index
+[0.889s] creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/ament_index/resource_index/packages
+[0.890s] symbolically linking /home/swarnava2/hunt_ws/build/clue_hunt_solver/resource/clue_hunt_solver -> /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/ament_index/resource_index/packages
+[0.890s] symbolically linking /home/swarnava2/hunt_ws/build/clue_hunt_solver/package.xml -> /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/clue_hunt_solver
+[0.890s] creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/clue_hunt_solver/launch
+[0.890s] symbolically linking /home/swarnava2/hunt_ws/build/clue_hunt_solver/launch/hunt.launch.py -> /home/swarnava2/hunt_ws/install/clue_hunt_solver/share/clue_hunt_solver/launch
+[0.909s] Invoked command in '/home/swarnava2/hunt_ws/build/clue_hunt_solver' returned '0': PYTHONPATH=/home/swarnava2/hunt_ws/build/clue_hunt_solver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/swarnava2/hunt_ws/build/clue_hunt_solver/build --no-deps symlink_data

@@ -1,0 +1,18 @@
+[0.589s] Invoking command in '/home/swarnava2/hunt_ws/build/clue_hunt_solver': PYTHONPATH=/home/swarnava2/hunt_ws/build/clue_hunt_solver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/swarnava2/hunt_ws/build/clue_hunt_solver/build --no-deps symlink_data
+[0.749s] running develop
+[0.851s] running egg_info
+[0.852s] writing clue_hunt_solver.egg-info/PKG-INFO
+[0.852s] writing dependency_links to clue_hunt_solver.egg-info/dependency_links.txt
+[0.852s] writing entry points to clue_hunt_solver.egg-info/entry_points.txt
+[0.852s] writing requirements to clue_hunt_solver.egg-info/requires.txt
+[0.852s] writing top-level names to clue_hunt_solver.egg-info/top_level.txt
+[0.853s] reading manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+[0.853s] writing manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+[0.854s] running build_ext
+[0.854s] Creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue-hunt-solver.egg-link (link to .)
+[0.855s] Installing follower_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+[0.855s] Installing hunt_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+[0.855s] 
+[0.855s] Installed /home/swarnava2/hunt_ws/build/clue_hunt_solver
+[0.855s] running symlink_data
+[0.871s] Invoked command in '/home/swarnava2/hunt_ws/build/clue_hunt_solver' returned '0': PYTHONPATH=/home/swarnava2/hunt_ws/build/clue_hunt_solver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/swarnava2/hunt_ws/build/clue_hunt_solver/build --no-deps symlink_data

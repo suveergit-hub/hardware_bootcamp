@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/clue_hunt_solver/clue_hunt_solver.egg-info/PKG-INFO
+writing dependency_links to ../../build/clue_hunt_solver/clue_hunt_solver.egg-info/dependency_links.txt
+writing entry points to ../../build/clue_hunt_solver/clue_hunt_solver.egg-info/entry_points.txt
+writing requirements to ../../build/clue_hunt_solver/clue_hunt_solver.egg-info/requires.txt
+writing top-level names to ../../build/clue_hunt_solver/clue_hunt_solver.egg-info/top_level.txt
+reading manifest file '../../build/clue_hunt_solver/clue_hunt_solver.egg-info/SOURCES.txt'
+writing manifest file '../../build/clue_hunt_solver/clue_hunt_solver.egg-info/SOURCES.txt'
+running build
+running build_py
+copying clue_hunt_solver/follower_node.py -> /home/swarnava2/hunt_ws/build/clue_hunt_solver/build/lib/clue_hunt_solver
+running install
+running install_lib
+copying /home/swarnava2/hunt_ws/build/clue_hunt_solver/build/lib/clue_hunt_solver/follower_node.py -> /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue_hunt_solver
+byte-compiling /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue_hunt_solver/follower_node.py to follower_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue_hunt_solver-0.1.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/clue_hunt_solver/clue_hunt_solver.egg-info to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue_hunt_solver-0.1.0-py3.10.egg-info
+running install_scripts
+Installing follower_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+Installing hunt_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+writing list of installed files to '/home/swarnava2/hunt_ws/build/clue_hunt_solver/install.log'

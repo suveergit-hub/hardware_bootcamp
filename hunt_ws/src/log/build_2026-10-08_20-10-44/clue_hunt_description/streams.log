@@ -1,0 +1,49 @@
+[0.014s] Invoking command in '/home/swarnava2/hunt_ws/src/build/clue_hunt_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarnava2/hunt_ws/install/clue_hunt_solver:/home/swarnava2/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake /home/swarnava2/hunt_ws/src/clue_hunt_description -DCMAKE_INSTALL_PREFIX=/home/swarnava2/hunt_ws/src/install/clue_hunt_description
+[0.057s] -- The C compiler identification is GNU 11.4.0
+[0.103s] -- The CXX compiler identification is GNU 11.4.0
+[0.109s] -- Detecting C compiler ABI info
+[0.166s] -- Detecting C compiler ABI info - done
+[0.172s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.172s] -- Detecting C compile features
+[0.172s] -- Detecting C compile features - done
+[0.174s] -- Detecting CXX compiler ABI info
+[0.243s] -- Detecting CXX compiler ABI info - done
+[0.249s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.249s] -- Detecting CXX compile features
+[0.250s] -- Detecting CXX compile features - done
+[0.252s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.386s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.519s] -- Configuring done
+[0.520s] -- Generating done
+[0.521s] -- Build files have been written to: /home/swarnava2/hunt_ws/src/build/clue_hunt_description
+[0.524s] Invoked command in '/home/swarnava2/hunt_ws/src/build/clue_hunt_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarnava2/hunt_ws/install/clue_hunt_solver:/home/swarnava2/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake /home/swarnava2/hunt_ws/src/clue_hunt_description -DCMAKE_INSTALL_PREFIX=/home/swarnava2/hunt_ws/src/install/clue_hunt_description
+[0.525s] Invoking command in '/home/swarnava2/hunt_ws/src/build/clue_hunt_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarnava2/hunt_ws/install/clue_hunt_solver:/home/swarnava2/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/swarnava2/hunt_ws/src/build/clue_hunt_description -- -j16 -l16
+[0.557s] Invoked command in '/home/swarnava2/hunt_ws/src/build/clue_hunt_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarnava2/hunt_ws/install/clue_hunt_solver:/home/swarnava2/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/swarnava2/hunt_ws/src/build/clue_hunt_description -- -j16 -l16
+[0.566s] Invoking command in '/home/swarnava2/hunt_ws/src/build/clue_hunt_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarnava2/hunt_ws/install/clue_hunt_solver:/home/swarnava2/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/swarnava2/hunt_ws/src/build/clue_hunt_description
+[0.572s] -- Install configuration: ""
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/urdf
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/urdf/robot.urdf.xacro
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/urdf/inertial_macros.xacro
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/urdf/gazebo.xacro
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/meshes
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/meshes/leader_tag.mtl
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/meshes/leader_tag.obj
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/meshes/leader_tag.png
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/launch
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/launch/rsp.launch.py
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/ament_index/resource_index/package_run_dependencies/clue_hunt_description
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/ament_index/resource_index/parent_prefix_path/clue_hunt_description
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/environment/ament_prefix_path.sh
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/environment/ament_prefix_path.dsv
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/environment/path.sh
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/environment/path.dsv
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/local_setup.bash
+[0.572s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/local_setup.sh
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/local_setup.zsh
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/local_setup.dsv
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/package.dsv
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/ament_index/resource_index/packages/clue_hunt_description
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/cmake/clue_hunt_descriptionConfig.cmake
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/cmake/clue_hunt_descriptionConfig-version.cmake
+[0.573s] -- Installing: /home/swarnava2/hunt_ws/src/install/clue_hunt_description/share/clue_hunt_description/package.xml
+[0.574s] Invoked command in '/home/swarnava2/hunt_ws/src/build/clue_hunt_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/swarnava2/hunt_ws/install/clue_hunt_solver:/home/swarnava2/cognipilot/cranium/install/b3rb_ros_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/swarnava2/hunt_ws/src/build/clue_hunt_description

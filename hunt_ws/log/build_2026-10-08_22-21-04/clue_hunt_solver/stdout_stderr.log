@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing clue_hunt_solver.egg-info/PKG-INFO
+writing dependency_links to clue_hunt_solver.egg-info/dependency_links.txt
+writing entry points to clue_hunt_solver.egg-info/entry_points.txt
+writing requirements to clue_hunt_solver.egg-info/requires.txt
+writing top-level names to clue_hunt_solver.egg-info/top_level.txt
+reading manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+writing manifest file 'clue_hunt_solver.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/python3.10/site-packages/clue-hunt-solver.egg-link (link to .)
+Installing follower_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+Installing hunt_node script to /home/swarnava2/hunt_ws/install/clue_hunt_solver/lib/clue_hunt_solver
+
+Installed /home/swarnava2/hunt_ws/build/clue_hunt_solver
+running symlink_data

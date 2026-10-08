@@ -1,0 +1,1 @@
+/home/swarnava2/hunt_ws/build/clue_hunt_navigation/ament_cmake_environment_hooks/local_setup.sh
